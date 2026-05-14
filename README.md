@@ -85,11 +85,11 @@ The models were evaluated using:
 
 ### Confusion Matrix
 
-(confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance
 
-(feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### Key Findings
 
